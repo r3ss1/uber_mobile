@@ -18,11 +18,15 @@
 <div align="center">
      In this project I am following along with Adrian Hajdin from JavaScript Mastery (YouTube) to develop an Uber clone mobile app. 
 
-https://www.youtube.com/watch?v=kmy_YNhl0mw&t=2072s&ab_channel=JavaScriptMastery
+</div>
+</div>
+<div align="center">
+    <br><br>
+    <a href="https://www.youtube.com/watch?v=kmy_YNhl0mw&t=2072s&ab_channel=JavaScriptMastery" target="_blank">Project Video</a>
+    <br>
+    <a href="https://github.com/adrianhajdin" target="_blank">Adrian Hajdin GitHub</a>
+</div>
 
-https://github.com/adrianhajdin
-</div>
-</div>
 
 ## <a name="introduction">🤖 Introduction</a>
 

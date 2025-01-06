@@ -127,7 +127,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/r3ss1/uber_mobile.git
+git clone https://github.com/rr3s1/uber_mobile.git
 cd uber_mobile
 ```
 
